@@ -1,5 +1,5 @@
 [
   { "name": "Yellow T-Shirt", "type": "Top", "price": 10, "consumable": false,"effect": "Attractiveness": 5, "durability": 150, "condition": "Clean"  },
   { "name": "Jeans", "type": "Clothes", "price": 20, "consumable": false, "effect": "Attractiveness": 5",  "durability": 150, "condition": "Clean"  }, 
-  { "name": "Sunscreen", "type": "Beauty Products", "price": 20, "consumable": true, "uses": 3, "effect": ["Attractiveness:5", "Happy:5" },
+  { "name": "Sunscreen", "type": "Beauty Products", "price": 20, "consumable": true, "uses": 3, "effect": ["Attractiveness:5", "Happy:5" }
 ]
